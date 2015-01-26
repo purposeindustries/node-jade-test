@@ -1,0 +1,24 @@
+{
+  "name": "jade-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "dependencies": {
+    "jade": "^1.9.1",
+    "resolve": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purposeindustries/node-jade-test"
+  },
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/node-jade-test/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/node-jade-test"
+}
